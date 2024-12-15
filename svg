@@ -1,2 +1,4 @@
 -- Add this to each svg
 -- data:image/svg+xml;utf8, 
+-- VAR _Preamble = "data:image/svg+xml;utf8,"
+
